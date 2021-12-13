@@ -1,0 +1,116 @@
+body{
+    font-family: 'Playfair Display', serif;
+    color: #2D2626;
+}
+h1 , h2, h3,h4,h5,h6{
+    font-style: normal;
+    font-weight: 700;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    font-size: 48px;
+}
+.header{
+    height: 100vh;
+}
+.offer-cont-title{
+    font-size: 60px;
+    
+}
+.offer-cont-sectitle{
+    font-size: 54px;
+
+}
+.offer-cont{
+    padding-top: 196px;
+}
+.hero{
+    background: url('../img/фото.png') no-repeat right top;
+    width: 673px;
+    height: 631px; 
+    position: absolute;
+    top: 0px;
+    right: 80px;
+}
+.be-static{
+    position: static;
+}
+.hoby-heder{
+    padding-top: 13px;
+}
+.hoby-decor{
+    padding-top: 30px;
+}
+.hoby-map{
+    padding-top: 38px;
+}
+p{
+    font-size: 23px;
+    line-height: 47px;
+    text-align: justify;
+}
+.hoby-born{
+    padding-top: 55px;
+}
+.goal-title{
+    text-align: right;
+    padding-top: 57px;
+}
+.goal-decor{
+   padding-top: 80px; 
+}
+.goal-art{
+    padding-top: 90px;
+}
+.goal-art-photo{
+    background: url('../img/колаж_1.png') no-repeat right top;
+    position: absolute;
+    width: 510px;
+    height: 465px;
+    top: 1230px;
+    right: 55px;
+}
+.goal-book-photo{
+    background: url('../img/колаж_2.png') no-repeat left top;
+    position: absolute;
+    width: 515px;
+    height: 426px;
+    left: -50px;
+    top: 240px;  
+}
+.goal-book{
+    padding-top: 270px;
+}
+.goal-web{
+    padding-top: 230px;
+}
+a{
+    text-decoration: none;
+    color: #2D2626;
+    font-size: 25px;
+}
+.goal-web-list{
+    padding-top: 130px;
+    margin-left: 70px;
+}
+.goal-web-works{
+    font-size: 25px;
+    line-height: 43px;
+    text-align:justify;
+    padding-top: 40px;
+    margin-bottom: 83px;
+}
+.hoby-table{
+    border-collapse: collapse;
+    text-indent: initial;
+    font-size: 23px;
+    margin-bottom: 61px;
+}
+.timeline{
+    margin-bottom: 61px;
+}
+.footer-decor{
+    margin-bottom: 61px;
+}
